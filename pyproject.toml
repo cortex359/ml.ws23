@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ml-ws23"
+version = "0.1.0"
+description = ""
+authors = ["Christian Rene Thelen <christian.thelen@rwth-aachen.de>"]
+readme = "README.md"
+packages = [{include = "ml"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+matplotlib = "^3.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
