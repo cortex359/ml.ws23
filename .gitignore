@@ -582,4 +582,6 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,pycharm+all,latex,python
+
 VorgestelleLösungen
+introduction_to_ml_with_python
